@@ -14,7 +14,7 @@
 <p><a href="https://www.youtube.com/@ma1ns./">@ma1ns.</a></p>
 
 <h3 align="left">Steam</h3>
-<p><a href="https://steamcommunity.com/id/hahamains/">hahaMains/</a></p>
+<p><a href="https://steamcommunity.com/id/hahamains/">hahaMains</a></p>
 
 ## 🔦 Stack & Tools
 
