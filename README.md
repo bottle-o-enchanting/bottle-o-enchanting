@@ -18,4 +18,14 @@
 
 ## 🔦 Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,html,css,js,react,nodejs,php,mysql,sqlite,supabase,cloudflare,unity,godot,unreal,blender,photoshop,vscode,github,powershell,windows&perline=8" />
+### 💻 Languages & Build
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,js,php&perline=8" />
+
+### 🌐 Web Development
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,supabase,cloudflare,sqlite,mysql&perline=8" />
+
+### 🎮 Game Development
+<img src="https://skillicons.dev/icons?i=unity,godot,unreal,blender&perline=8" />
+
+### 🛠️ Tools & OS
+<img src="https://skillicons.dev/icons?i=vscode,github,powershell,windows,photoshop&perline=8" />
