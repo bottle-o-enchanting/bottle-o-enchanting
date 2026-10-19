@@ -18,4 +18,4 @@
 
 ## 🔦 Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,blender,photoshop,vscode,github,supabase,cloudflare,powershell,windows,sqlite,&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,html,css,js,react,nodejs,php,mysql,sqlite,supabase,cloudflare,unity,godot,unreal,blender,photoshop,vscode,github,powershell,windows&perline=8" />
